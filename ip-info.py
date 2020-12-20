@@ -40,7 +40,7 @@ print (red+"""
                                                       v 1.0
 """+red)
 print (lgreen+bold+"         with love @qwadoh <3 \n"+clear)
-print (yellow+bold+"   <search my channel in telegram: @svchost_link <3 \n"+clear)
+print (yellow+bold+"   search my channel in telegram: @svchost_link <3 \n"+clear)
 
 
 ip = args.target
