@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 #coded by qwadoh /svchost/
 
 #Нужные модули
